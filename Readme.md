@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Aleksei Anishchenko](https://up.htmlacademy.ru/adaptive/27/user/1848665).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
